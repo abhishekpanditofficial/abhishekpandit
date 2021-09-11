@@ -20,7 +20,7 @@ const Hero = (props) => {
         <SectionText>
       Hi, I'm Abhishek Pandit. I am a Full-stack developer from Kolkata,India. I enjoy building everything from small business sites to rich interactive web apps.My expertise is in the area of responsive design.With every line of code, I strive to make the web a beautiful place.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={() =>{window.open('https://www.linkedin.com/in/abhishek-pandit-62a58021b', '_blank');}}>Learn More</Button>
       
       </LeftSection>
     </Section>

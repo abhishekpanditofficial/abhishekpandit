@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['React.js', 'Material-Ui', 'Alan-Ai', 'Node'],
     source: 'https://tender-mahavira-ce4b52.netlify.app/',
-    visit: 'https://tender-mahavira-ce4b52.netlify.app/',
+    visit: 'https://github.com/abhishekpanditofficial/project-assistant',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['React', 'Express','Stream'],
     source: 'https://ecstatic-lovelace-c375e9.netlify.app/',
-    visit: 'https://ecstatic-lovelace-c375e9.netlify.app/',
+    visit: 'https://github.com/abhishekpanditofficial/react-team-chat-app',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC','express','socket'],
     source: 'https://upbeat-rosalind-359622.netlify.app/',
-    visit: 'https://upbeat-rosalind-359622.netlify.app/',
+    visit: 'https://github.com/abhishekpanditofficial/react-video-chat-app',
     id: 2,
   },
   {
